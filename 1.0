@@ -1,0 +1,4 @@
++ mkdirp@1.0.4
+added 13 packages from 1 contributor, updated 1 package and audited 2315 packages in 10.763s
+found 38 vulnerabilities (1 low, 26 moderate, 10 high, 1 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
