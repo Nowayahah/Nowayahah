@@ -1,0 +1,4 @@
++ @types/react@17.0.38
+added 4 packages from 29 contributors and audited 2272 packages in 10.382s
+found 80 vulnerabilities (1 low, 66 moderate, 12 high, 1 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
