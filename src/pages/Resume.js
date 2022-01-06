@@ -15,7 +15,7 @@ import positions from '../data/resume/positions';
 import { skills, categories } from '../data/resume/skills';
 
 const sections = [
-  'Education',
+  'Education TEST',
   'Experience',
   'Skills',
   'Courses',
